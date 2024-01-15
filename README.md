@@ -45,3 +45,4 @@ ho=w to ban tiktok account
 how to ban tiktok lkive sttream
 how to delete ttiktok accountts
 how to mass report tiktok account
+tiktok report ban bot tool
