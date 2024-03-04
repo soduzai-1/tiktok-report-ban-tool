@@ -9,7 +9,7 @@ PRO VERSION BANS FAST
 
 MESSAGE > https://t.me/+r4q42DHGePA5ZTJk
 
-UPDATED 2024
+UPDATED 2024 
 
 
 ![tiktok](https://github.com/genius-codes/tiktok-report-ban-tool/assets/125784563/32c7d7b1-53f7-4f7b-9e4c-2254b90a9b01)
