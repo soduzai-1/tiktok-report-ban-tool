@@ -1,8 +1,8 @@
 import requests
 
 # Set up your TikTok API credentials
-api_url = 'https://api.tiktok.com'
-access_token = 'your_access_token'
+api_url = 'https://www.tiktok.com/@bazil_4006/video/7344804694516157702'
+laccess_token = 'https://mssdk-sg.tiktok.com/web/report?msToken=LK2l8Vy_C4RQl23oE7Ae9w-vjilfiiJXNOavF9LZVhJ-AMiF4LDfbIrOGkHGhtTEhkc5e7HTIr_kYASKVGrZQGnpgzvaqhifZJ70fRkjxrZcGbw4Q3Q_GkUA5yAewXO_pkbosks=&X-Bogus=DFSzswVL4J8j1TLvtbYxl8RhGwlR'
 
 # Get user input for the username and report reason
 username = input("Enter the username you want to report: ")
